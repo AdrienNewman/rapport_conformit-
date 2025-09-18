@@ -1,0 +1,139 @@
+timestamp,ip,utilisateur,departement,evenement,severite,message,os,ram_gb
+2025-08-19 08:15:23,192.168.1.16,aurélie.roux,IT,LOGIN,INFO,Successful login for user aurélie.roux,Ubuntu 20.04,8
+2025-08-19 08:45:12,192.168.1.16,aurélie.roux,IT,HIGH_MEMORY,WARNING,High memory usage detected - 192.168.1.16 (8GB),Ubuntu 20.04,8
+2025-08-19 12:30:45,192.168.1.16,aurélie.roux,IT,LOGOUT,INFO,User aurélie.roux logged out,Ubuntu 20.04,8
+2025-08-19 09:22:11,192.168.1.161,sandrine.dubois,IT,LOGIN,INFO,Successful login for user sandrine.dubois,Ubuntu 20.04,16
+2025-08-19 14:15:33,192.168.1.161,sandrine.dubois,IT,UPDATE_INSTALLED,INFO,System update installed - 192.168.1.161,Ubuntu 20.04,16
+2025-08-19 17:45:22,192.168.1.161,sandrine.dubois,IT,LOGOUT,INFO,User sandrine.dubois logged out,Ubuntu 20.04,16
+2025-08-19 08:30:15,192.168.1.193,laurence.gauthier,IT,LOGIN,INFO,Successful login for user laurence.gauthier,Ubuntu 22.04,16
+2025-08-19 10:12:44,192.168.1.193,laurence.gauthier,IT,CRASH,ERROR,System crash - 192.168.1.193 user laurence.gauthier,Ubuntu 22.04,16
+2025-08-19 10:45:11,192.168.1.193,laurence.gauthier,IT,LOGIN,INFO,Successful login for user laurence.gauthier,Ubuntu 22.04,16
+2025-08-19 16:30:55,192.168.1.193,laurence.gauthier,IT,LOGOUT,INFO,User laurence.gauthier logged out,Ubuntu 22.04,16
+2025-08-19 07:45:22,192.168.1.204,alain.gauthier,IT,LOGIN,INFO,Successful login for user alain.gauthier,Ubuntu 22.04,16
+2025-08-19 18:22:33,192.168.1.204,alain.gauthier,IT,LOGOUT,INFO,User alain.gauthier logged out,Ubuntu 22.04,16
+2025-08-19 21:15:44,192.168.1.204,alain.gauthier,IT,LOGIN,INFO,Successful login for user alain.gauthier,Ubuntu 22.04,16
+2025-08-19 23:30:12,192.168.1.204,alain.gauthier,IT,LOGOUT,INFO,User alain.gauthier logged out,Ubuntu 22.04,16
+2025-08-19 07:30:15,10.0.7.33,eric.petit,IT,LOGIN,INFO,Successful login for user eric.petit,Ubuntu 22.04,16
+2025-08-19 11:45:22,10.0.7.33,eric.petit,IT,ANTIVIRUS_SCAN,INFO,Antivirus scan completed - 10.0.7.33,Ubuntu 22.04,16
+2025-08-19 19:15:44,10.0.7.33,eric.petit,IT,LOGOUT,INFO,User eric.petit logged out,Ubuntu 22.04,16
+2025-08-19 08:00:33,192.168.1.196,céline.blanc,IT,LOGIN,INFO,Successful login for user céline.blanc,Ubuntu 20.04,64
+2025-08-19 10:30:15,192.168.1.196,céline.blanc,IT,HIGH_CPU,WARNING,High CPU usage detected - 192.168.1.196 (64GB),Ubuntu 20.04,64
+2025-08-19 17:45:22,192.168.1.196,céline.blanc,IT,LOGOUT,INFO,User céline.blanc logged out,Ubuntu 20.04,64
+2025-08-19 08:45:11,10.0.41.168,nathalie.muller,IT,LOGIN,INFO,Successful login for user nathalie.muller,Ubuntu 20.04,8
+2025-08-19 09:15:33,10.0.41.168,nathalie.muller,IT,HIGH_MEMORY,WARNING,High memory detected - 10.0.41.168 (8GB),Ubuntu 20.04,8
+2025-08-19 17:30:22,10.0.41.168,nathalie.muller,IT,LOGOUT,INFO,User nathalie.muller logged out,Ubuntu 20.04,8
+2025-08-19 09:00:15,10.0.6.228,daniel.petit,IT,LOGIN,INFO,Successful login for user daniel.petit,Ubuntu 22.04,16
+2025-08-19 18:45:33,10.0.6.228,daniel.petit,IT,LOGOUT,INFO,User daniel.petit logged out,Ubuntu 22.04,16
+2025-08-19 08:30:44,10.0.23.63,jérôme.roux,IT,LOGIN,INFO,Successful login for user jérôme.roux,Debian 11,32
+2025-08-19 16:15:22,10.0.23.63,jérôme.roux,IT,LOGOUT,INFO,User jérôme.roux logged out,Debian 11,32
+2025-08-19 08:15:11,192.168.1.146,vincent.david,IT,LOGIN,INFO,Successful login for user vincent.david,Ubuntu 20.04,16
+2025-08-19 17:30:44,192.168.1.146,vincent.david,IT,LOGOUT,INFO,User vincent.david logged out,Ubuntu 20.04,16
+2025-08-19 09:30:22,10.0.50.208,sophie.garcia,IT,LOGIN,INFO,Successful login for user sophie.garcia,Windows 10,32
+2025-08-19 11:45:15,10.0.50.208,sophie.garcia,IT,APPLICATION_ERROR,ERROR,Application error - 10.0.50.208,Windows 10,32
+2025-08-19 16:15:33,10.0.50.208,sophie.garcia,IT,LOGOUT,INFO,User sophie.garcia logged out,Windows 10,32
+2025-08-19 08:00:44,10.0.5.141,françoise.roux,COMPTA,LOGIN,INFO,Successful login for user françoise.roux,Windows 11,4
+2025-08-19 08:30:12,10.0.5.141,françoise.roux,COMPTA,HIGH_MEMORY,WARNING,High memory detected - 10.0.5.141 (4GB),Windows 11,4
+2025-08-19 12:15:33,10.0.5.141,françoise.roux,COMPTA,CONNECTION_FAILED,WARNING,Failed login attempt - 10.0.5.141,Windows 11,4
+2025-08-19 17:45:11,10.0.5.141,françoise.roux,COMPTA,LOGOUT,INFO,User françoise.roux logged out,Windows 11,4
+2025-08-19 09:15:22,10.0.16.210,christophe.lambert,COMPTA,LOGIN,INFO,Successful login for user christophe.lambert,Windows 10,4
+2025-08-19 09:45:33,10.0.16.210,christophe.lambert,COMPTA,HIGH_MEMORY,WARNING,High memory detected - 10.0.16.210 (4GB),Windows 10,4
+2025-08-19 16:30:44,10.0.16.210,christophe.lambert,COMPTA,LOGOUT,INFO,User christophe.lambert logged out,Windows 10,4
+2025-08-19 08:45:15,10.0.27.129,vincent.thomas,COMPTA,LOGIN,INFO,Successful login for user vincent.thomas,Windows 11,16
+2025-08-19 17:15:22,10.0.27.129,vincent.thomas,COMPTA,LOGOUT,INFO,User vincent.thomas logged out,Windows 11,16
+2025-08-19 09:00:33,10.0.47.96,philippe.david,COMPTA,LOGIN,INFO,Successful login for user philippe.david,Windows 10,8
+2025-08-19 16:45:44,10.0.47.96,philippe.david,COMPTA,LOGOUT,INFO,User philippe.david logged out,Windows 10,8
+2025-08-19 08:30:11,192.168.1.81,céline.david,COMPTA,LOGIN,INFO,Successful login for user céline.david,macOS Monterey,8
+2025-08-19 17:00:22,192.168.1.81,céline.david,COMPTA,LOGOUT,INFO,User céline.david logged out,macOS Monterey,8
+2025-08-19 08:15:44,192.168.1.33,bruno.david,COMPTA,LOGIN,INFO,Successful login for user bruno.david,Windows 10,8
+2025-08-19 16:30:15,192.168.1.33,bruno.david,COMPTA,LOGOUT,INFO,User bruno.david logged out,Windows 10,8
+2025-08-19 09:30:33,192.168.1.52,eric.martin,COMPTA,LOGIN,INFO,Successful login for user eric.martin,macOS Ventura,16
+2025-08-19 17:15:44,192.168.1.52,eric.martin,COMPTA,LOGOUT,INFO,User eric.martin logged out,macOS Ventura,16
+2025-08-19 08:45:22,192.168.1.223,nathalie.henry,RH,LOGIN,INFO,Successful login for user nathalie.henry,Windows 10,8
+2025-08-19 16:15:33,192.168.1.223,nathalie.henry,RH,LOGOUT,INFO,User nathalie.henry logged out,Windows 10,8
+2025-08-19 09:00:11,10.0.3.240,laurent.michel,RH,LOGIN,INFO,Successful login for user laurent.michel,Windows 11,8
+2025-08-19 17:30:44,10.0.3.240,laurent.michel,RH,LOGOUT,INFO,User laurent.michel logged out,Windows 11,8
+2025-08-19 08:30:22,10.0.40.201,sylvie.david,RH,LOGIN,INFO,Successful login for user sylvie.david,macOS Monterey,32
+2025-08-19 16:45:15,10.0.40.201,sylvie.david,RH,LOGOUT,INFO,User sylvie.david logged out,macOS Monterey,32
+2025-08-19 09:15:33,10.0.2.55,aurélie.girard,RH,LOGIN,INFO,Successful login for user aurélie.girard,Windows 11,8
+2025-08-19 17:00:44,10.0.2.55,aurélie.girard,RH,LOGOUT,INFO,User aurélie.girard logged out,Windows 11,8
+2025-08-19 08:00:11,192.168.1.78,alain.gauthier,RH,LOGIN,INFO,Successful login for user alain.gauthier,Windows 10,8
+2025-08-19 16:30:22,192.168.1.78,alain.gauthier,RH,LOGOUT,INFO,User alain.gauthier logged out,Windows 10,8
+2025-08-19 09:45:33,192.168.1.82,sébastien.mathieu,TECHNICIEN,LOGIN,INFO,Successful login for user sébastien.mathieu,Windows 11,8
+2025-08-19 11:15:44,192.168.1.82,sébastien.mathieu,TECHNICIEN,HIGH_CPU,WARNING,High CPU detected - 192.168.1.82 (8GB),Windows 11,8
+2025-08-19 16:00:15,192.168.1.82,sébastien.mathieu,TECHNICIEN,LOGOUT,INFO,User sébastien.mathieu logged out,Windows 11,8
+2025-08-19 06:30:22,10.0.15.216,bernard.moreau,TECHNICIEN,LOGIN,INFO,Successful login for user bernard.moreau,Windows 10,8
+2025-08-19 14:45:33,10.0.15.216,bernard.moreau,TECHNICIEN,NETWORK_ERROR,ERROR,Network error - 10.0.15.216,Windows 10,8
+2025-08-19 19:15:44,10.0.15.216,bernard.moreau,TECHNICIEN,LOGOUT,INFO,User bernard.moreau logged out,Windows 10,8
+2025-08-19 07:00:11,192.168.1.126,thierry.perrin,TECHNICIEN,LOGIN,INFO,Successful login for user thierry.perrin,Windows 11,16
+2025-08-19 18:30:22,192.168.1.126,thierry.perrin,TECHNICIEN,LOGOUT,INFO,User thierry.perrin logged out,Windows 11,16
+2025-08-19 08:15:33,10.0.16.47,laurence.gauthier,TECHNICIEN,LOGIN,INFO,Successful login for user laurence.gauthier,Windows 10,16
+2025-08-19 16:45:44,10.0.16.47,laurence.gauthier,TECHNICIEN,LOGOUT,INFO,User laurence.gauthier logged out,Windows 10,16
+2025-08-19 09:30:15,10.0.15.55,fabrice.rousseau,TECHNICIEN,LOGIN,INFO,Successful login for user fabrice.rousseau,Windows 10,16
+2025-08-19 17:00:22,10.0.15.55,fabrice.rousseau,TECHNICIEN,LOGOUT,INFO,User fabrice.rousseau logged out,Windows 10,16
+2025-08-20 08:20:15,192.168.1.16,aurélie.roux,IT,LOGIN,INFO,Successful login for user aurélie.roux,Ubuntu 20.04,8
+2025-08-20 08:50:33,192.168.1.16,aurélie.roux,IT,HIGH_MEMORY,WARNING,High memory usage detected - 192.168.1.16 (8GB),Ubuntu 20.04,8
+2025-08-20 12:35:44,192.168.1.16,aurélie.roux,IT,LOGOUT,INFO,User aurélie.roux logged out,Ubuntu 20.04,8
+2025-08-20 09:10:22,192.168.1.193,laurence.gauthier,IT,LOGIN,INFO,Successful login for user laurence.gauthier,Ubuntu 22.04,16
+2025-08-20 11:25:15,192.168.1.193,laurence.gauthier,IT,CRASH,ERROR,System crash - 192.168.1.193 user laurence.gauthier,Ubuntu 22.04,16
+2025-08-20 11:45:33,192.168.1.193,laurence.gauthier,IT,LOGIN,INFO,Successful login for user laurence.gauthier,Ubuntu 22.04,16
+2025-08-20 17:10:44,192.168.1.193,laurence.gauthier,IT,LOGOUT,INFO,User laurence.gauthier logged out,Ubuntu 22.04,16
+2025-08-21 08:05:11,10.0.5.141,françoise.roux,COMPTA,LOGIN,INFO,Successful login for user françoise.roux,Windows 11,4
+2025-08-21 08:25:22,10.0.5.141,françoise.roux,COMPTA,HIGH_MEMORY,WARNING,High memory detected - 10.0.5.141 (4GB),Windows 11,4
+2025-08-21 10:15:33,10.0.5.141,françoise.roux,COMPTA,APPLICATION_ERROR,ERROR,Application error - 10.0.5.141,Windows 11,4
+2025-08-21 17:50:44,10.0.5.141,françoise.roux,COMPTA,LOGOUT,INFO,User françoise.roux logged out,Windows 11,4
+2025-08-22 06:45:15,10.0.15.216,bernard.moreau,TECHNICIEN,LOGIN,INFO,Successful login for user bernard.moreau,Windows 10,8
+2025-08-22 09:30:22,10.0.15.216,bernard.moreau,TECHNICIEN,CRASH,ERROR,System crash - 10.0.15.216 user bernard.moreau,Windows 10,8
+2025-08-22 10:00:33,10.0.15.216,bernard.moreau,TECHNICIEN,LOGIN,INFO,Successful login for user bernard.moreau,Windows 10,8
+2025-08-22 15:20:44,10.0.15.216,bernard.moreau,TECHNICIEN,NETWORK_ERROR,ERROR,Network error - 10.0.15.216,Windows 10,8
+2025-08-22 19:45:11,10.0.15.216,bernard.moreau,TECHNICIEN,LOGOUT,INFO,User bernard.moreau logged out,Windows 10,8
+2025-08-23 13:15:22,192.168.1.126,thierry.perrin,TECHNICIEN,LOGIN,INFO,Successful login for user thierry.perrin,Windows 11,16
+2025-08-23 19:30:33,192.168.1.126,thierry.perrin,TECHNICIEN,LOGOUT,INFO,User thierry.perrin logged out,Windows 11,16
+2025-08-24 14:20:44,192.168.1.126,thierry.perrin,TECHNICIEN,LOGIN,INFO,Successful login for user thierry.perrin,Windows 11,16
+2025-08-24 18:45:15,192.168.1.126,thierry.perrin,TECHNICIEN,LOGOUT,INFO,User thierry.perrin logged out,Windows 11,16
+2025-08-25 08:10:22,192.168.1.161,sandrine.dubois,IT,LOGIN,INFO,Successful login for user sandrine.dubois,Ubuntu 20.04,16
+2025-08-25 12:25:33,192.168.1.161,sandrine.dubois,IT,UPDATE_INSTALLED,INFO,System update installed - 192.168.1.161,Ubuntu 20.04,16
+2025-08-25 17:40:44,192.168.1.161,sandrine.dubois,IT,LOGOUT,INFO,User sandrine.dubois logged out,Ubuntu 20.04,16
+2025-08-26 09:00:15,10.0.27.129,vincent.thomas,COMPTA,LOGIN,INFO,Successful login for user vincent.thomas,Windows 11,16
+2025-08-26 17:20:22,10.0.27.129,vincent.thomas,COMPTA,LOGOUT,INFO,User vincent.thomas logged out,Windows 11,16
+2025-08-27 08:15:33,192.168.1.223,nathalie.henry,RH,LOGIN,INFO,Successful login for user nathalie.henry,Windows 10,8
+2025-08-27 16:30:44,192.168.1.223,nathalie.henry,RH,LOGOUT,INFO,User nathalie.henry logged out,Windows 10,8
+2025-08-28 07:45:11,192.168.1.204,alain.gauthier,IT,LOGIN,INFO,Successful login for user alain.gauthier,Ubuntu 22.04,16
+2025-08-28 22:10:22,192.168.1.204,alain.gauthier,IT,LOGOUT,INFO,User alain.gauthier logged out,Ubuntu 22.04,16
+2025-08-29 08:20:33,10.0.7.33,eric.petit,IT,LOGIN,INFO,Successful login for user eric.petit,Ubuntu 22.04,16
+2025-08-29 19:35:44,10.0.7.33,eric.petit,IT,LOGOUT,INFO,User eric.petit logged out,Ubuntu 22.04,16
+2025-08-30 09:10:15,192.168.1.196,céline.blanc,IT,LOGIN,INFO,Successful login for user céline.blanc,Ubuntu 20.04,64
+2025-08-30 11:25:22,192.168.1.196,céline.blanc,IT,HIGH_CPU,WARNING,High CPU usage detected - 192.168.1.196 (64GB),Ubuntu 20.04,64
+2025-08-30 18:40:33,192.168.1.196,céline.blanc,IT,LOGOUT,INFO,User céline.blanc logged out,Ubuntu 20.04,64
+2025-09-01 08:00:44,10.0.41.168,nathalie.muller,IT,LOGIN,INFO,Successful login for user nathalie.muller,Ubuntu 20.04,8
+2025-09-01 08:30:15,10.0.41.168,nathalie.muller,IT,HIGH_MEMORY,WARNING,High memory detected - 10.0.41.168 (8GB),Ubuntu 20.04,8
+2025-09-01 17:45:22,10.0.41.168,nathalie.muller,IT,LOGOUT,INFO,User nathalie.muller logged out,Ubuntu 20.04,8
+2025-09-02 09:15:33,10.0.6.228,daniel.petit,IT,LOGIN,INFO,Successful login for user daniel.petit,Ubuntu 22.04,16
+2025-09-02 18:30:44,10.0.6.228,daniel.petit,IT,LOGOUT,INFO,User daniel.petit logged out,Ubuntu 22.04,16
+2025-09-03 08:45:11,10.0.23.63,jérôme.roux,IT,LOGIN,INFO,Successful login for user jérôme.roux,Debian 11,32
+2025-09-03 16:00:22,10.0.23.63,jérôme.roux,IT,LOGOUT,INFO,User jérôme.roux logged out,Debian 11,32
+2025-09-04 08:30:33,192.168.1.146,vincent.david,IT,LOGIN,INFO,Successful login for user vincent.david,Ubuntu 20.04,16
+2025-09-04 17:15:44,192.168.1.146,vincent.david,IT,LOGOUT,INFO,User vincent.david logged out,Ubuntu 20.04,16
+2025-09-05 09:20:15,10.0.50.208,sophie.garcia,IT,LOGIN,INFO,Successful login for user sophie.garcia,Windows 10,32
+2025-09-05 11:35:22,10.0.50.208,sophie.garcia,IT,APPLICATION_ERROR,ERROR,Application error - 10.0.50.208,Windows 10,32
+2025-09-05 16:50:33,10.0.50.208,sophie.garcia,IT,LOGOUT,INFO,User sophie.garcia logged out,Windows 10,32
+2025-09-06 08:10:44,10.0.5.141,françoise.roux,COMPTA,LOGIN,INFO,Successful login for user françoise.roux,Windows 11,4
+2025-09-06 08:40:15,10.0.5.141,françoise.roux,COMPTA,HIGH_MEMORY,WARNING,High memory detected - 10.0.5.141 (4GB),Windows 11,4
+2025-09-06 12:25:22,10.0.5.141,françoise.roux,COMPTA,CONNECTION_FAILED,WARNING,Failed login attempt - 10.0.5.141,Windows 11,4
+2025-09-06 18:10:33,10.0.5.141,françoise.roux,COMPTA,LOGOUT,INFO,User françoise.roux logged out,Windows 11,4
+2025-09-09 08:00:44,10.0.16.210,christophe.lambert,COMPTA,LOGIN,INFO,Successful login for user christophe.lambert,Windows 10,4
+2025-09-09 08:25:15,10.0.16.210,christophe.lambert,COMPTA,HIGH_MEMORY,WARNING,High memory detected - 10.0.16.210 (4GB),Windows 10,4
+2025-09-09 16:40:22,10.0.16.210,christophe.lambert,COMPTA,LOGOUT,INFO,User christophe.lambert logged out,Windows 10,4
+2025-09-10 09:15:33,10.0.27.129,vincent.thomas,COMPTA,LOGIN,INFO,Successful login for user vincent.thomas,Windows 11,16
+2025-09-10 17:30:44,10.0.27.129,vincent.thomas,COMPTA,LOGOUT,INFO,User vincent.thomas logged out,Windows 11,16
+2025-09-11 08:45:11,10.0.47.96,philippe.david,COMPTA,LOGIN,INFO,Successful login for user philippe.david,Windows 10,8
+2025-09-11 17:00:22,10.0.47.96,philippe.david,COMPTA,LOGOUT,INFO,User philippe.david logged out,Windows 10,8
+2025-09-12 08:30:33,192.168.1.81,céline.david,COMPTA,LOGIN,INFO,Successful login for user céline.david,macOS Monterey,8
+2025-09-12 17:15:44,192.168.1.81,céline.david,COMPTA,LOGOUT,INFO,User céline.david logged out,macOS Monterey,8
+2025-09-13 08:20:15,192.168.1.33,bruno.david,COMPTA,LOGIN,INFO,Successful login for user bruno.david,Windows 10,8
+2025-09-13 16:35:22,192.168.1.33,bruno.david,COMPTA,LOGOUT,INFO,User bruno.david logged out,Windows 10,8
+2025-09-16 09:10:33,192.168.1.52,eric.martin,COMPTA,LOGIN,INFO,Successful login for user eric.martin,macOS Ventura,16
+2025-09-16 17:25:44,192.168.1.52,eric.martin,COMPTA,LOGOUT,INFO,User eric.martin logged out,macOS Ventura,16
+2025-09-17 08:50:15,192.168.1.223,nathalie.henry,RH,LOGIN,INFO,Successful login for user nathalie.henry,Windows 10,8
+2025-09-17 16:05:22,192.168.1.223,nathalie.henry,RH,LOGOUT,INFO,User nathalie.henry logged out,Windows 10,8
+2025-09-18 09:00:33,10.0.3.240,laurent.michel,RH,LOGIN,INFO,Successful login for user laurent.michel,Windows 11,8
+2025-09-18 10:20:44,10.0.3.240,laurent.michel,RH,LOGOUT,INFO,User laurent.michel logged out,Windows 11,8
