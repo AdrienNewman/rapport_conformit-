@@ -1,0 +1,188 @@
+RAPPORT DE CONFORMITÉ MATÉRIEL
+Date de génération : 18/09/2025 11:14:55
+Généré par : root sur debian
+
+MACHINES WINDOWS 10 À METTRE À JOUR
+===================================
+Nombre total de machines Windows 10 : 46
+
+Répartition par département :
+----------------------------
+- IT : 2 machine(s)
+- COMPTA : 11 machine(s)
+- TECHNICIEN : 24 machine(s)
+- RH : 9 machine(s)
+
+Liste détaillée des machines Windows 10 :
+Format: IP | RAM | Utilisateur | Âge | Département
+-
+10.0.50.208 | 32GB | sophie.garcia | 4 an(s) | IT
+10.0.49.51 | 32GB | olivier.robin | 3 an(s) | IT
+10.0.16.210 | 4GB | christophe.lambert | 4 an(s) | COMPTA
+10.0.47.96 | 8GB | philippe.david | 2 an(s) | COMPTA
+192.168.1.33 | 8GB | bruno.david | 2 an(s) | COMPTA
+192.168.1.158 | 4GB | aurélie.blanc | 1 an(s) | COMPTA
+10.0.33.245 | 8GB | karine.simon | 2 an(s) | COMPTA
+192.168.1.182 | 8GB | françoise.dupont | 2 an(s) | COMPTA
+192.168.1.181 | 4GB | delphine.morel | 3 an(s) | COMPTA
+10.0.49.249 | 16GB | michel.martin | 1 an(s) | COMPTA
+10.0.40.216 | 8GB | laurence.rousseau | 3 an(s) | COMPTA
+10.0.14.185 | 4GB | frédéric.bertrand | 1 an(s) | COMPTA
+10.0.36.190 | 4GB | sandrine.guerin | 2 an(s) | COMPTA
+192.168.1.223 | 8GB | nathalie.henry | 1 an(s) | RH
+192.168.1.78 | 8GB | alain.gauthier | 4 an(s) | RH
+192.168.1.219 | 8GB | céline.andré | 2 an(s) | RH
+192.168.1.178 | 8GB | bernard.dupont | 3 an(s) | RH
+10.0.3.37 | 8GB | nicolas.bonnet | 4 an(s) | RH
+192.168.1.75 | 8GB | pierre.dumont | 2 an(s) | RH
+10.0.33.89 | 8GB | jérôme.lambert | 2 an(s) | RH
+10.0.36.223 | 8GB | jean.fournier | 3 an(s) | RH
+10.0.29.182 | 16GB | christine.faure | 2 an(s) | RH
+10.0.15.216 | 8GB | bernard.moreau | 4 an(s) | TECHNICIEN
+10.0.16.47 | 16GB | laurence.gauthier | 1 an(s) | TECHNICIEN
+10.0.15.55 | 16GB | fabrice.rousseau | 1 an(s) | TECHNICIEN
+10.0.40.218 | 32GB | vincent.faure | 4 an(s) | TECHNICIEN
+192.168.1.200 | 8GB | christophe.françois | 3 an(s) | TECHNICIEN
+10.0.41.71 | 8GB | monique.françois | 3 an(s) | TECHNICIEN
+10.0.35.30 | 16GB | françois.moreau | 2 an(s) | TECHNICIEN
+10.0.27.94 | 8GB | olivier.martinez | 4 an(s) | TECHNICIEN
+192.168.1.229 | 8GB | bruno.muller | 3 an(s) | TECHNICIEN
+192.168.1.79 | 8GB | sandrine.garnier | 4 an(s) | TECHNICIEN
+192.168.1.31 | 16GB | laurence.bonnet | 1 an(s) | TECHNICIEN
+10.0.21.64 | 32GB | céline.morel | 3 an(s) | TECHNICIEN
+10.0.17.223 | 16GB | catherine.legrand | 3 an(s) | TECHNICIEN
+192.168.1.169 | 16GB | sylvie.david | 2 an(s) | TECHNICIEN
+192.168.1.89 | 8GB | philippe.henry | 4 an(s) | TECHNICIEN
+192.168.1.213 | 16GB | julien.dubois | 3 an(s) | TECHNICIEN
+10.0.1.227 | 32GB | thierry.garnier | 4 an(s) | TECHNICIEN
+10.0.30.121 | 32GB | vincent.henry | 1 an(s) | TECHNICIEN
+10.0.36.12 | 16GB | karine.lefebvre | 4 an(s) | TECHNICIEN
+10.0.15.113 | 16GB | fabrice.david | 4 an(s) | TECHNICIEN
+10.0.28.200 | 16GB | stéphanie.girard | 3 an(s) | TECHNICIEN
+192.168.1.40 | 16GB | vincent.lefebvre | 2 an(s) | TECHNICIEN
+10.0.7.223 | 8GB | bernard.vincent | 1 an(s) | TECHNICIEN
+10.0.7.233 | 16GB | jean.muller | 3 an(s) | TECHNICIEN
+
+MACHINES AVEC RAM INSUFFISANTE (≤ 8 Go)
+=======================================
+Nombre total de machines avec ≤ 8 Go RAM : 47
+
+Répartition par département :
+----------------------------
+- IT : 3 machine(s)
+- COMPTA : 16 machine(s)
+- TECHNICIEN : 15 machine(s)
+- RH : 13 machine(s)
+
+Liste détaillée des machines avec RAM insuffisante :
+Format: IP | RAM | Utilisateur | OS | Département
+-
+10.0.14.185 | 4GB RAM [CRITIQUE] | frédéric.bertrand | Windows 10 | COMPTA
+10.0.16.210 | 4GB RAM [CRITIQUE] | christophe.lambert | Windows 10 | COMPTA
+10.0.36.190 | 4GB RAM [CRITIQUE] | sandrine.guerin | Windows 10 | COMPTA
+10.0.43.250 | 4GB RAM [CRITIQUE] | eric.clément | Windows 11 | RH
+10.0.45.197 | 4GB RAM [CRITIQUE] | stéphanie.mathieu | Windows 11 | COMPTA
+10.0.5.141 | 4GB RAM [CRITIQUE] | françoise.roux | Windows 11 | COMPTA
+192.168.1.158 | 4GB RAM [CRITIQUE] | aurélie.blanc | Windows 10 | COMPTA
+192.168.1.181 | 4GB RAM [CRITIQUE] | delphine.morel | Windows 10 | COMPTA
+192.168.1.29 | 4GB RAM [CRITIQUE] | valérie.gauthier | Ubuntu 20.04 | TECHNICIEN
+192.168.1.48 | 4GB RAM [CRITIQUE] | sylvie.muller | Ubuntu 20.04 | TECHNICIEN
+192.168.1.77 | 4GB RAM [CRITIQUE] | isabelle.petit | Windows 11 | COMPTA
+10.0.12.134 | 8GB RAM | christine.andré | Windows 11 | TECHNICIEN
+10.0.15.216 | 8GB RAM | bernard.moreau | Windows 10 | TECHNICIEN
+10.0.16.202 | 8GB RAM | céline.muller | Windows 11 | TECHNICIEN
+10.0.18.21 | 8GB RAM | jean.girard | Windows 11 | COMPTA
+10.0.2.55 | 8GB RAM | aurélie.girard | Windows 11 | RH
+10.0.27.94 | 8GB RAM | olivier.martinez | Windows 10 | TECHNICIEN
+10.0.3.240 | 8GB RAM | laurent.michel | Windows 11 | RH
+10.0.33.245 | 8GB RAM | karine.simon | Windows 10 | COMPTA
+10.0.3.37 | 8GB RAM | nicolas.bonnet | Windows 10 | RH
+10.0.33.89 | 8GB RAM | jérôme.lambert | Windows 10 | RH
+10.0.36.223 | 8GB RAM | jean.fournier | Windows 10 | RH
+10.0.38.112 | 8GB RAM | nathalie.garcia | Windows 11 | IT
+10.0.40.216 | 8GB RAM | laurence.rousseau | Windows 10 | COMPTA
+10.0.41.168 | 8GB RAM | nathalie.muller | Ubuntu 20.04 | IT
+10.0.41.71 | 8GB RAM | monique.françois | Windows 10 | TECHNICIEN
+10.0.44.225 | 8GB RAM | olivier.girard | macOS Monterey | RH
+10.0.47.96 | 8GB RAM | philippe.david | Windows 10 | COMPTA
+10.0.5.252 | 8GB RAM | jérôme.girard | Windows 11 | RH
+10.0.7.223 | 8GB RAM | bernard.vincent | Windows 10 | TECHNICIEN
+192.168.1.168 | 8GB RAM | catherine.lambert | Windows 11 | COMPTA
+192.168.1.16 | 8GB RAM | aurélie.roux | Ubuntu 20.04 | IT
+192.168.1.178 | 8GB RAM | bernard.dupont | Windows 10 | RH
+192.168.1.182 | 8GB RAM | françoise.dupont | Windows 10 | COMPTA
+192.168.1.200 | 8GB RAM | christophe.françois | Windows 10 | TECHNICIEN
+192.168.1.219 | 8GB RAM | céline.andré | Windows 10 | RH
+192.168.1.223 | 8GB RAM | nathalie.henry | Windows 10 | RH
+192.168.1.225 | 8GB RAM | céline.leroy | CentOS 7 | TECHNICIEN
+192.168.1.229 | 8GB RAM | bruno.muller | Windows 10 | TECHNICIEN
+192.168.1.33 | 8GB RAM | bruno.david | Windows 10 | COMPTA
+192.168.1.74 | 8GB RAM | christophe.durand | Ubuntu 20.04 | TECHNICIEN
+192.168.1.75 | 8GB RAM | pierre.dumont | Windows 10 | RH
+192.168.1.78 | 8GB RAM | alain.gauthier | Windows 10 | RH
+192.168.1.79 | 8GB RAM | sandrine.garnier | Windows 10 | TECHNICIEN
+192.168.1.81 | 8GB RAM | céline.david | macOS Monterey | COMPTA
+192.168.1.82 | 8GB RAM | sébastien.mathieu | Windows 11 | TECHNICIEN
+192.168.1.89 | 8GB RAM | philippe.henry | Windows 10 | TECHNICIEN
+
+MACHINES AVEC PROBLÈMES MULTIPLES
+=================================
+Machines Windows 10 avec ≤ 8 Go RAM : 26
+
+Ces machines nécessitent une mise à jour système ET une augmentation de RAM :
+-
+[PRIORITÉ HAUTE] 10.0.16.210 | 4GB RAM | christophe.lambert | COMPTA
+[PRIORITÉ HAUTE] 10.0.47.96 | 8GB RAM | philippe.david | COMPTA
+[PRIORITÉ HAUTE] 192.168.1.33 | 8GB RAM | bruno.david | COMPTA
+[PRIORITÉ HAUTE] 192.168.1.158 | 4GB RAM | aurélie.blanc | COMPTA
+[PRIORITÉ HAUTE] 10.0.33.245 | 8GB RAM | karine.simon | COMPTA
+[PRIORITÉ HAUTE] 192.168.1.182 | 8GB RAM | françoise.dupont | COMPTA
+[PRIORITÉ HAUTE] 192.168.1.181 | 4GB RAM | delphine.morel | COMPTA
+[PRIORITÉ HAUTE] 10.0.40.216 | 8GB RAM | laurence.rousseau | COMPTA
+[PRIORITÉ HAUTE] 10.0.14.185 | 4GB RAM | frédéric.bertrand | COMPTA
+[PRIORITÉ HAUTE] 10.0.36.190 | 4GB RAM | sandrine.guerin | COMPTA
+[PRIORITÉ HAUTE] 192.168.1.223 | 8GB RAM | nathalie.henry | RH
+[PRIORITÉ HAUTE] 192.168.1.78 | 8GB RAM | alain.gauthier | RH
+[PRIORITÉ HAUTE] 192.168.1.219 | 8GB RAM | céline.andré | RH
+[PRIORITÉ HAUTE] 192.168.1.178 | 8GB RAM | bernard.dupont | RH
+[PRIORITÉ HAUTE] 10.0.3.37 | 8GB RAM | nicolas.bonnet | RH
+[PRIORITÉ HAUTE] 192.168.1.75 | 8GB RAM | pierre.dumont | RH
+[PRIORITÉ HAUTE] 10.0.33.89 | 8GB RAM | jérôme.lambert | RH
+[PRIORITÉ HAUTE] 10.0.36.223 | 8GB RAM | jean.fournier | RH
+[PRIORITÉ HAUTE] 10.0.15.216 | 8GB RAM | bernard.moreau | TECHNICIEN
+[PRIORITÉ HAUTE] 192.168.1.200 | 8GB RAM | christophe.françois | TECHNICIEN
+[PRIORITÉ HAUTE] 10.0.41.71 | 8GB RAM | monique.françois | TECHNICIEN
+[PRIORITÉ HAUTE] 10.0.27.94 | 8GB RAM | olivier.martinez | TECHNICIEN
+[PRIORITÉ HAUTE] 192.168.1.229 | 8GB RAM | bruno.muller | TECHNICIEN
+[PRIORITÉ HAUTE] 192.168.1.79 | 8GB RAM | sandrine.garnier | TECHNICIEN
+[PRIORITÉ HAUTE] 192.168.1.89 | 8GB RAM | philippe.henry | TECHNICIEN
+[PRIORITÉ HAUTE] 10.0.7.223 | 8GB RAM | bernard.vincent | TECHNICIEN
+
+RECOMMANDATIONS D'ACTIONS
+========================
+
+1. MISE À JOUR SYSTÈME :
+   - Planifier la migration des machines Windows 10 vers Windows 11
+   - Vérifier la compatibilité matérielle avant migration
+   - Prioriser les départements avec le plus de machines concernées
+
+2. AMÉLIORATION MATÉRIELLE :
+   - Remplacer ou upgrader les machines avec 4 Go de RAM (critique)
+   - Planifier l'augmentation à 16 Go minimum pour les machines 8 Go
+   - Considérer le remplacement des machines de plus de 4 ans
+
+3. PRIORITÉS :
+   - Traiter en URGENT les machines avec problèmes multiples
+   - Départements techniques : priorité sur les performances
+   - Prévoir un budget pour les remplacements nécessaires
+
+STATISTIQUES GÉNÉRALES
+=====================
+Total machines dans le parc : 100
+Machines Windows 10 : 46 (46%)
+Machines RAM ≤ 8 Go : 47 (47%)
+Machines RAM ≤ 4 Go (critique) : 11 (11%)
+
+SCORE DE CONFORMITÉ : 33%
+
+Rapport généré dans : rapport_conformite_20250918_111455.txt
