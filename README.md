@@ -1,6 +1,8 @@
-Pour adapter ce Script à vos propres inventaire et fichier log : 
+Pour adapter ce Script à vos propres inventaire et fichier log :
 
-1. Modifier les varaibles de configuration ligne 21 et 22 avec les noms de vos propres fichiers
+Positionner vos fichiers d'inventaire et de log dans le même dossier que le script
+
+1. Modifier les variables de configuration ligne 21 et 22 avec les noms de vos propres fichiers
 2. Modifier les données contenues dans votre inventaire de parc en les remplacer dans l'ordre d'entrée dans la section
    #Affichage détaillé de chaque machine Windows 10 ligne 104 et 105
    Une première fois apres read -r ligne 104
